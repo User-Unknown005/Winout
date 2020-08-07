@@ -34,6 +34,7 @@ if check1==check2:
   print(ban)
   file3.close()
   print("This Script is written by {} ".format(check1))
+  print("Follow me on Instagam: user_unknown_005")
   file4=open("wallet.txt","r")
   money=file4.read()
   file4.close()
